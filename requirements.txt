@@ -10,3 +10,4 @@ uvicorn
 scipy
 anthropic
 langchain-anthropic
+langchain
