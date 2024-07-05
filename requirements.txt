@@ -5,10 +5,10 @@ plotly
 missingno
 seaborn
 matplotlib
-fastapi
-uvicorn
+# fastapi
+# uvicorn
 scipy
 anthropic
+langchain==0.2.6
 langchain-anthropic
-langchain
 pydantic==1.10.8
