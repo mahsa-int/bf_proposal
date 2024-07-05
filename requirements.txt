@@ -1,0 +1,11 @@
+scikit-learn
+pandas
+numpy
+plotly
+missingno
+seaborn
+matplotlib
+fastapi
+uvicorn
+scipy
+hdbscan
