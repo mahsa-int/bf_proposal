@@ -8,4 +8,4 @@ matplotlib
 fastapi
 uvicorn
 scipy
-hdbscan
+anthropic
